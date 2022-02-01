@@ -1,0 +1,30 @@
+{
+  "name": "heroku-birdv2-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogieBeer/heroku-birdv2-api.git"
+  },
+  "author": "DeathProxy87",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.9.8",
+    "mongoose": "^5.13.7",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7",
+    "wikijs": "^6.3.2"
+  },
+  "bugs": {
+    "url": "https://github.com/rogieBeer/heroku-birdv2-api/issues"
+  },
+  "homepage": "https://github.com/rogieBeer/heroku-birdv2-api#readme",
+  "engines": {
+    "node": "15.3.0"
+  }
+}
